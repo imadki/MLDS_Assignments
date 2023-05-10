@@ -1,9 +1,3 @@
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/72388724?s=280&v=4" width="200" alt="Alkhwarizmi logo" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;">
-</p>
 <h1 align="center" style="color:#8A2BE2"> HPC Performance Tools </h1>
 
 ## Overview
